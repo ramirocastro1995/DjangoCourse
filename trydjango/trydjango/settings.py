@@ -56,7 +56,7 @@ ROOT_URLCONF = 'trydjango.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['C:/Users/Ramiro/Desktop/git/DjangoCourse/trydjango/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
